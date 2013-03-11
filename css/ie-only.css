@@ -1,0 +1,15 @@
+/* IE 6-7 */
+form dl dd { float:none; }
+
+
+/* IE 6 */
+
+* html>body .clearfix { display: inline-block; width: 100%; }
+* html .clearfix { height: 1%; }
+
+/* IE 7 */
+.clearfix { zoom:1; min-width:1px; }
+
+* html .contact_form button { overflow: visible; }
+
+.html_editor li { zoom: 1; }
